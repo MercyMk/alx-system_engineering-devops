@@ -1,1 +1,1 @@
-readme shell file1
+readme shell basic file1
