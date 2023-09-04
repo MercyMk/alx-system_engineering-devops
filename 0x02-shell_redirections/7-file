@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Best School' > tail -n 1 7-file
+echo tail 'Best School' > 7-file
