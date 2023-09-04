@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n 1 "Best School" \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo 'Best School' > 7-file
